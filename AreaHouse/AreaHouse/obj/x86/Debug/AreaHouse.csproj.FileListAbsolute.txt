@@ -1,0 +1,4 @@
+h:\visual studio 2010\Projects\AreaHouse\AreaHouse\bin\Debug\AreaHouse.exe
+h:\visual studio 2010\Projects\AreaHouse\AreaHouse\bin\Debug\AreaHouse.pdb
+h:\visual studio 2010\Projects\AreaHouse\AreaHouse\obj\x86\Debug\AreaHouse.exe
+h:\visual studio 2010\Projects\AreaHouse\AreaHouse\obj\x86\Debug\AreaHouse.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Bank_Account.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bank Account" FontSize="14" Height="433.473" Width="599.686">
+    <Grid>
+        <Button x:Name="btnCredit" Content="Credit" HorizontalAlignment="Left" Margin="109,176,0,0" VerticalAlignment="Top" Width="130" Height="36" FontSize="16" Click="btnCredit_Click"/>
+        <Button x:Name="btnDebit" Content="Debit" HorizontalAlignment="Left" Margin="109,247,0,0" VerticalAlignment="Top" Width="130" Height="36" FontSize="16" Click="btnDebit_Click"/>
+        <TextBlock x:Name="txtblkAmount" HorizontalAlignment="Left" Margin="24,94,0,0" TextWrapping="Wrap" Text="Amount £" VerticalAlignment="Top" Height="33" Width="80" FontSize="16"/>
+        <TextBlock x:Name="txtblkBalance" HorizontalAlignment="Left" Margin="109,332,0,0" TextWrapping="Wrap" Text="Your current balance is £0.00" VerticalAlignment="Top" FontSize="16" Width="240"/>
+        <TextBox x:Name="txtAmount" HorizontalAlignment="Left" Height="33" Margin="119,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="171" FontSize="16"/>
+
+    </Grid>
+</Window>
